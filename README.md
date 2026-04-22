@@ -7,7 +7,7 @@ Full three-statement financial model and DCF valuation for a fictional Egyptian 
 
 Built to demonstrate end-to-end FP&A skills — from raw assumptions through to equity valuation.
 
-![Assumption](Excel-model/Assumptions) 
+![Assumption](Excel-model/Assumptions.PNG) 
 
 ## What's Inside
 
