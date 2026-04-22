@@ -7,6 +7,8 @@ Full three-statement financial model and DCF valuation for a fictional Egyptian 
 
 Built to demonstrate end-to-end FP&A skills — from raw assumptions through to equity valuation.
 
+![Assumption](Excel-model/Assumptions) 
+
 ## What's Inside
 
 **Assumptions** — Price, volume, and unit costs per product line. Working capital days, depreciation by asset category, dual debt facility, and forecast growth rates.
