@@ -4,19 +4,19 @@
 Product Assumption,Unit,2022E,2023E,2024E,Forecast,,,,,,,
 ,,,,,,,,,,,,
 Standard pipes:,EGP,,,,,,Standard Pipes COGS Drivers:,EGP,,,,
-volume,,9000,9500,10000,5%,,Raw material,,6000,6500,7000,7%
-price,,10000,"10,500","11,000",5%,,Direct Labor,,1200,1300,1400,7%
+volume,,9000,9500,10000,5%,,Raw material,,6000,6500,7000,8%
+price,,10000,"10,500","11,000",5%,,Direct Labor,,1200,1300,1400,8%
 ,,,,,,,Overhead,,700,730,760,4%
 Heavy Duty Pipes;,EGP,,,,,,Total,,7900,8530,9160,7%
-volume,,3000,3400,3800,11%,,,,,,,
+volume,,3000,3400,3800,12%,,,,,,,
 price,,"15,000","15,500","16,000",3%,,,,,,,
 ,,,,,,,,,,,,
 Fittings:,EGP,,,,,,Heavy Duty COGS Drivers:,EGP,,,,
-volume,,36000,41000,46000,11%,,Raw material,,7200,7700,8400,8%
-price,,500,600,700,14%,,Direct Labor,,1600,1700,1800,6%
+volume,,36000,41000,46000,12%,,Raw material,,7200,7700,8400,9%
+price,,500,600,700,17%,,Direct Labor,,1600,1700,1800,6%
 ,,,,,,,Overhead,,900,930,960,3%
-Fittings COGS Drivers:,EGP,,,,,,Total,,9700,10330,11160,7%
-Raw material,,180,195,210,7%,,,,,,,
+Fittings COGS Drivers:,EGP,,,,,,Total,,9700,10330,11160,8%
+Raw material,,180,195,210,8%,,,,,,,
 Direct Labor,,60,63,66,5%,,,,,,,
 Overhead,,35,36,37,3%,,,,,,,
 Total,,275,294,313,6%,,,,,,,
