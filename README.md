@@ -5,8 +5,6 @@ Steel Pipe Manufacturing | Cairo, Egypt | 2022–2026
 ## Overview
 Full three-statement financial model and DCF valuation for a fictional Egyptian steel pipe manufacturer. Every output is formula-driven from a centralized assumptions tab. No hardcoded numbers in calculations.
 
-Built to demonstrate end-to-end FP&A skills — from raw assumptions through to equity valuation.
-
 ![Assumption](Excel-model/Assumptions.PNG) 
 
 ## What's Inside
